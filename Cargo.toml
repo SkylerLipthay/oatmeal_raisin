@@ -1,0 +1,14 @@
+[package]
+name = "oatmeal_raisin"
+version = "0.0.1"
+authors = ["Skyler Lipthay <skyler.lipthay@gmail.com>"]
+description = "A cookies plugin for Iron."
+readme = "README.md"
+license = "MIT"
+repository = "https://github.com/SkylerLipthay/oatmeal_raisin"
+
+[dependencies]
+cookie = "*"
+iron = "*"
+persistent = "*"
+plugin = "*"
