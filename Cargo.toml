@@ -8,7 +8,7 @@ license = "MIT"
 repository = "https://github.com/SkylerLipthay/oatmeal_raisin"
 
 [dependencies]
-cookie = "*"
-iron = "*"
-persistent = "*"
-plugin = "*"
+cookie = "0.1"
+iron = "0.2"
+persistent = "0.0"
+plugin = "0.2"
